@@ -36,14 +36,14 @@
 👉 https://github.com/fredericbalaguema-ops/mon-premier-projet-java
 
 ---
-## 📊 Statistiques GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=fredericbalaguema-ops&show_icons=true&theme=tokyonight)
-
 ## 📫 Me contacter
 - Email : fredericbalaguema@gmail.com
 ---
 
+## 📊 Statistiques GitHub
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fredericbalaguema-ops&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredericbalaguema-ops&layout=compact&theme=tokyonight)
 
 ⭐ Merci de visiter mon profil !
