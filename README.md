@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Frédéric BALAGUEMA
 
-<!--
-**fredericbalaguema-ops/fredericbalaguema-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant passionné par l'informatique, la programmation et l'intelligence artificielle.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 À propos de moi
+- 🌱 J'apprends actuellement le langage **Java**
+- 🤖 Intéressé par l'Intelligence Artificielle
+- 💻 Membre d’un club d’IA
+- 🎯 Objectif : devenir ingénieur en IA
+
+---
+
+## 🛠️ Technologies en apprentissage
+- Java ☕
+- Git & GitHub
+- Programmation orientée objet
+- Python
+- data science
+- IA 
+
+---
+
+## 📂 Mes projets
+- 🔹 Mon premier programme Java  
+👉 https://github.com/fredericbalaguema-ops/mon-premier-projet-java
+
+---
+
+## 📫 Me contacter
+- Email : fredericbalaguema@gmail.com
+---
+
+⭐ Merci de visiter mon profil !
