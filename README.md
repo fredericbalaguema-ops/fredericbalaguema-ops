@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Bonjour+👋;Je+suis+Frédéric+BALAGUEMA;Étudiant+en+informatique;Futur+développeur+IA+🚀;Bienvenue+sur+mon+profil+GitHub!" />
+</p>
+
 <img src="https://raw.githubusercontent.com/fredericbalaguema-ops/fredericbalaguema-ops/205f8f26aae9d51bfa99f6772bb5f9e3f3398e4f/file_00000000023c71fdb36e333814728204.png" width="100%" />
 
 # 👋 Bonjour, je suis Frédéric BALAGUEMA
