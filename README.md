@@ -50,4 +50,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredericbalaguema-ops&layout=compact&theme=tokyonight)
 
+## 🐍 Contributions
+
+![snake gif](https://github.com/fredericbalaguema-ops/fredericbalaguema-ops/blob/output/github-contribution-grid-snake.svg)
+
 ⭐ Merci de visiter mon profil !
